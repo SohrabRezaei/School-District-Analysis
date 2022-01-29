@@ -16,7 +16,7 @@ The Thomas High School is the only row that has been modified. The average math 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
 
-The ranking of the Thomas High School hasn't changed in regards to overall passing percetange and it still remained the second school between 15 schools. [![da.jpg](https://i.postimg.cc/XqCtm33j/da.jpg)](https://postimg.cc/D47C498H) [![vvv.jpg](https://i.postimg.cc/cHNDCYNS/vvv.jpg)](https://postimg.cc/94JPNDM8)
+The ranking of the Thomas High School hasn't changed in regards to overall passing percetange and it still remained the second school between 15 schools. [![da.jpg](https://i.postimg.cc/XqCtm33j/da.jpg)](https://postimg.cc/D47C498H) [![x.jpg](https://i.postimg.cc/t4sKKh5R/x.jpg)](https://postimg.cc/cvNkYt2P)
 
 * How does replacing the ninth-grade scores affect the following:
 
