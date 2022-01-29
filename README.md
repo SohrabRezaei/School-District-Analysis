@@ -12,11 +12,11 @@ The average math score has changed from 79 to 78.9, and the passing math percent
 
 * How is the school summary affected?
 
-The Thomas High School is the only row that has been modified. The average math score and average reading score has been changed from 83.41 and 83.84 to 83.35 and 83.89 respectively. Also, the math passing percentage and reading passing percentage has been changed from 93.27 and 97.30 to 93.18 and 97.01. Finally, the overall passing percentage has been altered from 90.94 to 90.63. [![vlc.jpg](https://i.postimg.cc/PfbV8LCf/vlc.jpg)](https://postimg.cc/LhX3c8kG) [![lf.jpg](https://i.postimg.cc/yYZdPHzN/lf.jpg)](https://postimg.cc/D87nvR0V)
+The Thomas High School is the only row that has been modified. The average math and reading scores have been changed from 83.41 and 83.84 to 83.35 and 83.89, respectively. Also, the passing math and reading percentages have been changed from 93.27 and 97.30 to 93.18 and 97.01. Finally, the overall passing percentage has been altered from 90.94 to 90.63. [![vlc.jpg](https://i.postimg.cc/PfbV8LCf/vlc.jpg)](https://postimg.cc/LhX3c8kG) [![lf.jpg](https://i.postimg.cc/yYZdPHzN/lf.jpg)](https://postimg.cc/D87nvR0V)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
 
-The ranking of the Thomas High School hasn't changed in regards to overall passing percetange and it still remained the second school between 15 schools. [![da.jpg](https://i.postimg.cc/XqCtm33j/da.jpg)](https://postimg.cc/D47C498H) [![x.jpg](https://i.postimg.cc/t4sKKh5R/x.jpg)](https://postimg.cc/cvNkYt2P)
+The ranking of the Thomas High School hasn't changed in regards to overall passing percentage, and it still remained the second school between 15 schools. [![da.jpg](https://i.postimg.cc/XqCtm33j/da.jpg)](https://postimg.cc/D47C498H) [![x.jpg](https://i.postimg.cc/t4sKKh5R/x.jpg)](https://postimg.cc/cvNkYt2P)
 
 * How does replacing the ninth-grade scores affect the following:
 
@@ -40,6 +40,6 @@ The scores by school type also haven't been affected by the changes. [![q.jpg](h
 
 ## Summary
 
-The district summary dataframe and school summary dataframe has changed a bit. Some of the rankings of Thomas High School in comparison with other schools also have changed. Finally, the math and reading scores also have changed to null value.
+The district summary dataframe and school summary dataframe has changed a bit. Compared with other schools, some of Thomas High School's rankings, such as average math score, have also changed. Finally, the math and reading scores by grade also have changed to null value.
 
 
