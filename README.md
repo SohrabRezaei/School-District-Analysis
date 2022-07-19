@@ -1,6 +1,6 @@
-# School_District
+# School-District-Analysis
 
-## Overview of the school district analysis
+## Overview
 
 The original module had asked us to perform an analysis on several schools so that the school boards could have a reference to determine how to distribute a specific budget between schools based on their test performance. However, The challenge asked us to drop the ninth-grade results of Thomas High School and then try to figure out how such alternation has affected the previous analysis as a whole.
 
